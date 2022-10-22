@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Cox's Bazar",
+    "body": "New cleaning and disinfection procedures, increased attention to safety in communal spaces, protective equipment, and updated training for team members are included in the new protocols.",
+    "img": "https://images.unsplash.com/photo-1608958435020-e8a7109ba809?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y294JTIwYmF6YXIlMjBzZWElMjBiZWFjaHxlbnwwfHwwfHw%3D&w=1000&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Sitakundo",
+    "body": "New cleaning and disinfection procedures, increased attention to safety in communal spaces, protective equipment, and updated training for team members are included in the new protocols.",
+    "img": "https://images.unsplash.com/photo-1654555277423-4c11c3effa24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Bandorban",
+    "body": "New cleaning and disinfection procedures, increased attention to safety in communal spaces, protective equipment, and updated training for team members are included in the new protocols.",
+    "img": "https://scontent.fdac146-1.fna.fbcdn.net/v/t31.18172-8/15626539_1717884861874827_651173899421646998_o.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9267fe&_nc_eui2=AeFsH-yeiIzakR_Uy19_EhSE0KfXrTKXbtzQp9etMpdu3P4KIFJg_J-omKIT9ncOsL9guOaJlIeM4nZxvuIc8bHF&_nc_ohc=61eWA0UtAPsAX_IplQo&_nc_ht=scontent.fdac146-1.fna&oh=00_AT_o9o0x7QDGuvkkdWhQu2-T0WeAw8hDpQW9P9cCMi2sVg&oe=637968E7"
+  },
+  {
+    "id": 4,
+    "name": "Sajek",
+    "body": "New cleaning and disinfection procedures, increased attention to safety in communal spaces, protective equipment, and updated training for team members are included in the new protocols.",
+    "img": "https://dailyasianage.com/library/2018/02/09/1518199389_7.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Meghaloy",
+    "body": "New cleaning and disinfection procedures, increased attention to safety in communal spaces, protective equipment, and updated training for team members are included in the new protocols.",
+    "img": "https://touristsignal.com/wp-content/uploads/2021/06/meghaloy-1-e1631814182629.jpg"
+  }
+]
