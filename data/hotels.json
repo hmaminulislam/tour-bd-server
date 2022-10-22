@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "Radisson Blu Dhaka Water Garden",
+    "body": "New cleaning and disinfection procedures, increased attention to safety in communal spaces, protective equipment, and updated training for team members are included in the new protocols.",
+    "rating": 3,
+    "price": 526,
+    "img": "https://i.travelapi.com/hotels/1000000/20000/18900/18818/ef83f40a_z.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Located on Topkhana Road, Asia Hotel & Resorts is a premium boutique hotel suited for discerning business and leisure guests with an airy 24-hour restaurant and gym, Thai spa, and rooftop cafe featuring regular live music. Enjoy amenities such as 24-hour restaurant with live music, 24-hour open gym, and wellness centre. Directorate of Food & Drugs Administration and Baitul Mokkarram Masjid are within 900 m of this property. Unwind with a relaxing spa massage after a busy day out in Dhaka.The hotel staff is fluent in English.",
+    "rating": 4,
+    "price": 563,
+    "img": "https://photos.hotelbeds.com/giata/original/09/093994/093994a_hb_l_001.jpg"
+  },
+  {
+    "id": 3,
+    "name": "The Raintree Dhaka",
+    "body": "Lavish rooms, multiple dining spots, an outdoor pool and a host of upscale amenities await you for a memorable stay at this stunning property.Take a refreshing dip in the outdoor swimming pool. Immerse in an intense workout session at the well-equipped gym. Delight your taste buds with mouth-watering delicacies at the on-site restaurant, La Chocolatine.",
+    "rating": 5,
+    "price": 291,
+    "img": "https://i.travelapi.com/hotels/16000000/15600000/15599100/15599031/b2f4a09b_z.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Hotel Bengal Canary Park",
+    "body": "With fine service, warm hospitality and 4-star luxuries, Hotel Bengal Canary Park offers the best stay in Dhaka. Ideal for business travellers, the hotel has a well-equipped business centre and modern conference halls. The hotel staff speaks Hindi and Bangla, making you feel at home in a new city! Savour Indian dishes at the in-house Canary Dineout Restaurant. For recreation, it has a Thai spa, Jacuzzi as well as a fitness centre.",
+    "rating": 4,
+    "price": 535,
+    "img": "https://i.travelapi.com/hotels/18000000/17460000/17459300/17459214/8276001b_z.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Pan Pacific Sonargaon Dhaka",
+    "body": "Experience the perfect getaway with a stay at Pan Pacific Sonargaon Dhaka, Pan Pacific Sonargaon Dhaka, offers an infinity outdoor pool, fitness centre and a plush spa. The award-winning hotel has a shopping arcade, outdoor pool, sauna, steam room, Jacuzzi and business centre. Prefer Indian food on holiday? Eat your favourite dishes at Indian Spicy Masala (550 m) and Santoor Restaurant (1.9 km). Rated high on location, Pan Pacific Sonargaon Dhaka is a 5-minute walk from Tejgaon Bus Station. The Jharna Grill and Café Bazar present amazing local dishes and lip-smacking Indian food.",
+    "rating": 4,
+    "price": 358,
+    "img": "https://photos.hotelbeds.com/giata/original/09/093994/093994a_hb_p_001.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Grand Oriental Hotel",
+    "body": "Don't miss out on the many recreational opportunities, including a spa tub, a sauna, and a 24-hour fitness center. Additional amenities at this hotel include complimentary wireless Internet access, concierge services, and a ballroom. Guests can catch a ride to nearby destinations on the area shuttle (surcharge).Enjoy Thai cuisine at Sawadee, one of the hotel's 2 restaurants, or stay in and take advantage of the 24-hour room service. Snacks are also available at the coffee shop/cafe. Mingle with other guests at the complimentary reception, held daily. A complimentary breakfast is included.Featured amenities include a 24-hour business center, express check-in, and complimentary newspapers in the lobby. ",
+    "rating": 5,
+    "price": 342,
+    "img": "https://i.travelapi.com/hotels/10000000/9070000/9062900/9062853/269412a1_z.jpg?downsize=377:200&crop=377:200"
+  }
+]
